@@ -1,0 +1,22 @@
+body {
+	background: url("..img/bg.png") #88D792;
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	color: #53C6C0;
+	font-style: italic;
+
+	background: red;
+	padding: 10px;
+	border: 10px black double;
+	
+}
+
+h3 {
+
+}
+
+.subhead {
+
+}
