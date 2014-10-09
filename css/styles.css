@@ -10,7 +10,9 @@ h1 {
 	background: red;
 	padding: 10px;
 	border: 10px black double;
-	
+	width: 300px;
+	margin: 10px;
+
 }
 
 h3 {
@@ -18,5 +20,11 @@ h3 {
 }
 
 .subhead {
+	font-style: italic;
+	margin-left: 30px;
+}
+
+#lead {
+	color: green;
 
 }
