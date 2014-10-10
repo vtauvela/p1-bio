@@ -7,7 +7,7 @@ h1 {
 	font-family: "Lato", sans-serif;
 	color: #FF3355;
 	font-weight: 100;
-	font-size: 54px;
+	font-size: 58px;
 	padding: 10px;
 	margin: 10px;
 	width: 500px;
@@ -15,7 +15,7 @@ h1 {
 
 h2 {
 	font-family: "Quicksand";
-	font-size: 28px;
+	font-size: 32px;
 	font-weight: 300;
 	color: #FF7588;
 	padding: 10px;
@@ -32,10 +32,10 @@ h3 {
 }
 
 p {
-	font-family: "Quicksand";
-	font-size: 14px;
+	font-family: "Roboto";
+	font-size: 15px;
 	font-weight: 100;
-	color: white;
+	color: #CCCCCC;
 	padding: 10px;
 	margin: 10px;
 }
@@ -45,8 +45,7 @@ p {
 }
 
 #subhead {
-	font-style: italic;
-	font-size: 22px;
+	font-size: 24px;
 	color: white;
 }
 
