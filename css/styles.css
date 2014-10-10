@@ -1,5 +1,5 @@
 body {
-	background: url("../img/bg.png") #FF938F;
+	background: url("../img/broken_noise.png") #FF938F;
 
 }
 
@@ -7,10 +7,10 @@ h1 {
 	font-family: "Lato", sans-serif;
 	color: white;
 	font-weight: 100;
-	font-size: 48px;
+	font-size: 54px;
 	padding: 10px;
 	margin: 10px;
-	width: 400px;
+	width: 500px;
 }
 
 h2 {
@@ -23,9 +23,10 @@ h2 {
 }
 
 h3 {
-	font-family: "Varela Round", sans-serif;
+	font-family: "Quicksand", sans-serif;
 	font-size: 18px;
 	color: white;
+	font-weight: 100;
 	padding: 10px;
 	margin: 10px;
 }
@@ -37,7 +38,10 @@ p {
 	color: white;
 	padding: 10px;
 	margin: 10px;
+}
 
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
 }
 
 .subhead {
