@@ -7,15 +7,15 @@ h1 {
 	font-family: "Quicksand", sans-serif;
 	color: #9E806B;
 	font-weight: 300;
-	font-size: 56px;
-	padding: 10px;
-	margin: 10px;
-	width: 500px;
+	font-size: 42px;
+	padding-left: 10px;
+	margin: 0px;
+	width: 300px;
 }
 
 h2 {
 	font-family: "Quicksand";
-	font-size: 35px;
+	font-size: 30px;
 	font-weight: 300;
 	color: #9E806B;
 	padding: 10px;
@@ -31,7 +31,7 @@ h3 {
 	margin: 10px;
 }
 
-p {
+p, nav {
 	font-family: "Roboto";
 	font-size: 13px;
 	font-weight: 300;
@@ -45,7 +45,11 @@ p {
 	margin-left: auto;
 	margin-right: auto;
 	padding: 30px;
-	width: 40%;
+	width: 80%;
+}
+
+#firstname {
+	padding-top: 15px;
 }
 
 .showgrid {
