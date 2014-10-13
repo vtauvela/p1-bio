@@ -5,9 +5,9 @@ body {
 
 h1 {
 	font-family: "Lato", sans-serif;
-	color: #FF3355;
-	font-weight: 100;
-	font-size: 56px;
+	color: #CC952E;
+	font-weight: 300;
+	font-size: 60px;
 	padding: 10px;
 	margin: 10px;
 	width: 500px;
@@ -15,9 +15,9 @@ h1 {
 
 h2 {
 	font-family: "Quicksand";
-	font-size: 32px;
+	font-size: 35px;
 	font-weight: 300;
-	color: #FF7588;
+	color: #CC952E;
 	padding: 10px;
 	margin: 10px;
 }
@@ -34,8 +34,8 @@ h3 {
 p {
 	font-family: "Roboto";
 	font-size: 13px;
-	font-weight: 100;
-	color: #CCCCCC;
+	font-weight: 300;
+	color: #707070;
 	padding: 10px;
 	margin: 10px;
 }
