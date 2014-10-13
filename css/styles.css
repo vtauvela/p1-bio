@@ -31,12 +31,21 @@ h3 {
 	margin: 10px;
 }
 
-p, nav {
+p {
 	font-family: "Roboto";
 	font-size: 13px;
 	font-weight: 300;
 	color: #808080;
 	padding: 10px;
+	margin: 10px;
+}
+
+nav {
+	font-family: "Roboto";
+	font-size: 13px;
+	font-weight: 300;
+	color: #808080;
+	padding-left: 10px;
 	margin: 10px;
 }
 
