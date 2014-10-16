@@ -49,6 +49,10 @@ nav {
 	margin: 10px;
 }
 
+a {
+	text-decoration: none;
+}
+
 #profile {
 	display: block;
 	margin-left: auto;
